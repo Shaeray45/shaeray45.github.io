@@ -2,9 +2,12 @@
 # This file contains configuration flags to customize your site
 #
 # Name of your site (displayed in the header)
-title: Learning More 
-# Short bio or description (displayed in the header)
-description: A Blog that will help and guide you, Please leave feedback 
+ <nav>
+          <a href="/" class="nav-link">Home<a/>
+            <a href="/"Information.html" class="nav-link">Information</a>
+            <a href="/"Pictures.html" class="nav-link">Pictures</a>       
+            <a href="/"News.html" class="nav-link">News</a>
+        </nav>
 theme: jekyll-theme-dinky
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
