@@ -4,3 +4,8 @@ color: red;
 section {
   color: black;
 }
+
+header {
+  background-image: url("/assests/images/Red_light_fine_sign");
+  background-size : cover;
+}
