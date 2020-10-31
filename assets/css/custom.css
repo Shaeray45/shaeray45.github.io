@@ -1,16 +1,6 @@
 body {
 color: red;
 }
-
 section {
   color: black;
-}
-
-.nav-content {
-  dispaly: flex;
-}
-
-.nav-links {
-  display: block;
-  width: 20%
 }
