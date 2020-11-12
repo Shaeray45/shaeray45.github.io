@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 # Name of your site (displayed in the header)
- 
+title: Reform
 theme: jekyll-theme-dinky
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
