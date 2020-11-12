@@ -4,6 +4,12 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
+       <nav>
+         <a href="/" class="nav-link">Home</a>
+         <a href="/News.html" class="nav-link">News<a/>
+         <a href="/Information.html" class="nav-link">Information<a/>
+         <a href="/Pictures.html" class="nav-link">Pictures<a/>
+           </nav>
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
